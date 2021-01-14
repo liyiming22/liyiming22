@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liyiming22)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👨‍💻 A front-end engineer currently working in Shanghai, China.
+- 👨‍💻 A front-end engineer currently working in Shanghai, China
 - 🤗 Love React Love Typescript
 - 🧠 A constant learner
 - 🥑 Vimer

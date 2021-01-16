@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liyiming22&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 👨‍💻 A front-end engineer currently working in Shanghai, China
-- 🤗 Love React Love Typescript
+- 🤗 React and Typescript Enthusiast
 - 🧠 A constant learner
 - 🥑 Vimer
 - 📫 Email me at: [lym.liam@outlook.com](mailto:lym.liam@outlook.com)
